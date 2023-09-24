@@ -1,4 +1,4 @@
-I hade some tecnical problems during the instalattion. it was soething about the Path to mongoDb in the .zshrc file the wasn't correct and I had to manually go in the file and fix it. I did not understand much about that, but after a wile with chatgpt instructiuns I managed to fix the problem. 
+I had some technical problems during the installation. It was something about the path to MongoDB in the .zshrc file that wasn't correct, and I had to manually go into the file and fix it. I didn't understand much about that, but after a while with ChatGPT's instructions, I managed to fix the problem.
 
 Screenshots
 
@@ -30,4 +30,4 @@ second example:
 My own example:
 ![Skjermbilde 2023-09-24 kl  18 42 48](https://github.com/andnor1/DAT250-Exp1/assets/61704257/6ada1014-c642-43cc-abf2-6331d15451f2)
 
-In this Map-reduce opeeration I calculate who the most valuable coustumer is by adding opp the total number of orders and the total revenue by each customer. 
+In this Map-Reduce operation, I calculate who the most valuable customer is by adding up the total number of orders and the total revenue by each customer.
